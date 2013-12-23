@@ -20,3 +20,5 @@ Finally, I gonna to show you the difference between ordinary css file and the ne
 * keep all the empty lines
 * produce css file with readable tab as well
 
+## Screenshot
+![css_pcss screenshot](https://raw.github.com/tobegit3hub/PyCss/master/screenshot/css_pcss.png)
